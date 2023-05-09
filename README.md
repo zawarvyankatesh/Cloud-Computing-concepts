@@ -1,7 +1,8 @@
 # Cloud-Computing-concepts
-This is task of course under ICC cloud computing course 
+This is task of ICC Industry connect cloud computing course 
 
 What is Cloud Computing ?
+
 Cloud computing is basically a way of accessing computing resources over the internet without needing to own and maintain expensive hardware and software infrastructure. With cloud computing, you can rent servers, storage, databases, networking, software, analytics, and intelligence on a pay-per-use or subscription basis. This means you only pay for what you need and use, and you can access these resources from anywhere with an internet connection.
 
 There are three main types of cloud computing services. Infrastructure as a Service (IaaS) lets you rent physical or virtual machines, storage, and other resources from a cloud provider. Platform as a Service (PaaS) provides developers with a platform for building and deploying applications, without worrying about the underlying infrastructure. And Software as a Service (SaaS) allows you to use software applications hosted on a cloud provider's servers, without needing to install them on your own device.
@@ -10,7 +11,9 @@ Cloud computing has a lot of benefits. It can save you money by eliminating the 
 
 
 Description of Services : 
+
 1. Infrastructure as a Service (IaaS) : 
+
        So, Infrastructure as a Service (IaaS) is a type of cloud computing where a provider lets you rent computing resources like virtual machines, storage, servers, and networking stuff. You pay only for what you use, like a pay-per-use basis. This means you can choose exactly what resources you need, and then you can configure them to work the way you want.
 
 IaaS is great because it lets you scale up or down quickly depending on how much you need. This saves you the trouble of buying and maintaining your own hardware and infrastructure. Plus, it's really useful for things like backing up your data or recovering from disasters, hosting your website, developing and testing your apps, and doing high-performance computing.
@@ -29,7 +32,8 @@ Monitor and manage your infrastructure: Once your applications are deployed, you
 
 Overall, implementing IaaS on AWS can be a powerful way to leverage the scalability, reliability, and flexibility of the cloud to build and deploy your applications, while avoiding the costs and complexities of managing your own physical hardware and infrastructure.
 
-2.Platform as a Service (PaaS) 
+2. Platform as a Service (PaaS) :
+
 Platform as a Service (PaaS) is a type of cloud computing service that provides developers with a platform to build, run, and manage applications without having to worry about the underlying infrastructure.
 
 With PaaS, the cloud provider offers a complete development and deployment environment, including an operating system, programming language runtime, database, web server, and other necessary tools and services. This allows developers to focus on writing and testing their code, rather than setting up and managing the underlying infrastructure.
@@ -52,6 +56,7 @@ Overall, implementing PaaS on AWS can be a powerful way to simplify and streamli
 
 
 3. Anything as a Service (XaaS) : 
+
 XaaS (Anything as a Service) is a term used to describe the wide range of cloud computing services that are available, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
 In addition to these core cloud computing models, there are several other types of XaaS services that are available, including:
