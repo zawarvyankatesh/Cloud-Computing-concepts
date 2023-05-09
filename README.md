@@ -14,7 +14,7 @@ Description of Services :
 
 1. Infrastructure as a Service (IaaS) : 
 
-       So, Infrastructure as a Service (IaaS) is a type of cloud computing where a provider lets you rent computing resources like virtual machines, storage, servers, and networking stuff. You pay only for what you use, like a pay-per-use basis. This means you can choose exactly what resources you need, and then you can configure them to work the way you want.
+So, Infrastructure as a Service (IaaS) is a type of cloud computing where a provider lets you rent computing resources like virtual machines, storage, servers, and networking stuff. You pay only for what you use, like a pay-per-use basis. This means you can choose exactly what resources you need, and then you can configure them to work the way you want.
 
 IaaS is great because it lets you scale up or down quickly depending on how much you need. This saves you the trouble of buying and maintaining your own hardware and infrastructure. Plus, it's really useful for things like backing up your data or recovering from disasters, hosting your website, developing and testing your apps, and doing high-performance computing.
 
